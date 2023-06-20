@@ -1,0 +1,47 @@
+{
+  "ships": [
+    {
+      "name": "enterprise",
+      "type": "starship",
+      "crew": [
+        {
+          "firstName": "james",
+          "middleName": "tiberius",
+          "lastName": "kirk",
+          "nickname": "jim",
+          "rank": "captain"
+        },
+        {
+          "firstName": "leonard",
+          "middleName": "horatio",
+          "lastName": "mcCoy",
+          "nickname": "bones",
+          "rank": "chief medical officer"
+        }
+      ]
+    },
+    {
+      "name": "enterprise d",
+      "type": "starship",
+      "crew": [
+        {
+          "firstName": "jean-luc",
+          "middleName": "tiberius",
+          "lastName": "picard",
+          "nickname": "jl",
+          "rank": "admiral"
+        }
+      ]
+    },
+    {
+      "name": "voyager",
+      "type": "starship",
+      "crew": []
+    },
+    {
+      "name": "discovery",
+      "type": "starship",
+      "crew": []
+    }
+  ]
+}

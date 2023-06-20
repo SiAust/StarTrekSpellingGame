@@ -11,6 +11,14 @@ public class InputReader {
   }
 
   public String getNextLine() {
-    return scanner.nextLine();
+    return scanner.nextLine().trim();
+  }
+
+  public int getMenuChoice() {
+    return scanner.nextInt();
+  }
+
+  public char getNextChar() {
+    return scanner.next().charAt(0);
   }
 }

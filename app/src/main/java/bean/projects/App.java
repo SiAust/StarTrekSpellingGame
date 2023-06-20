@@ -5,7 +5,7 @@ package bean.projects;
 
 public class App {
     public static void main(String[] args) {
-        new Game();
+        new Game(args);
     }
 
 }
